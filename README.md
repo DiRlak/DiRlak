@@ -1,20 +1,44 @@
 ## About me
 
 
+# Дмитрий Муравский
 
-- 🔭 I’m currently working on Natural Language Processing (NLP) project that will analyze pdf articles on metallurgy to create knowledge graphs with functional dependencies, as a SCRUM-master.
-- 🌱 I’m currently learning to programm in Python and use Github.
-- 📫 How to reach me: muravskii.dm@gamil.com | Telegram @dirlak 
-- ⚡ Fun fact: I am also interested in street workout and gym training.
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-!-->
+Начинающий инженер-программист с подготовкой по прикладной математике и системам автоматического управления. Работаю с C и Python в учебных проектах, моделирую динамические системы в MATLAB/Simulink.
 
+Ищу full-time стажировку или позицию trainee/junior, где будут полезны программирование, Linux и математическое моделирование.
 
-## My education background
- - 👨‍🎓 I'm studying Applied Mathematics as an undergraduate at MISIS University in Moscow.
- - 📚 Previously, I studied for two years at Moscow State University the same major.
- - 📟 I know C and assembler languages.
- - 💻 I'm familiar to C++.
+## Основные направления
+
+* программирование на C, повторение современного C++ и алгоритмов;
+* моделирование динамических, дискретных и нелинейных систем;
+* Python для вычислений и анализа;
+* Linux и базовое администрирование личного VPS;
+* изучение основ машинного обучения.
+
+## Избранные проекты
+
+* [Discrete and nonlinear automatic control theory](https://github.com/DiRlak/Discrete-and-non-linear-automatic-control-theory) — дискретизация динамических систем, настройка ПИД-регуляторов, исследование нелинейностей; Python, MATLAB, NumPy, SciPy, python-control.
+* [Automatic control theory](https://github.com/DiRlak/Automatic-control-theory) — учебные модели систем автоматического управления, MATLAB/Simulink, пространство состояний, устойчивость и частотные характеристики.
+* [VMK second-year practicum](https://github.com/DiRlak/VMK-2-course) — учебные задания на C: строки, динамическая память, сортировка и библиотека операций с матрицами.
+
+## Командный опыт
+
+Во время университетской практики при участии GARPIX координировал команду из пяти человек как Scrum Master и разрабатывал визуализацию графов знаний с использованием Cytoscape.js. Две команды независимо решали одну задачу; наша реализация заняла первое место.
+
+## Технологии
+
+* C; базовый C++ и x86 MASM;
+* Python: NumPy, SciPy, Matplotlib, pandas, python-control;
+* MATLAB и Simulink;
+* Git и GitHub;
+* Linux CLI, SSH, базовая эксплуатация Ubuntu VPS;
+* базовый опыт Docker — запуск и сопровождение готовых образов.
+
+## Образование
+
+Подготовка по прикладной математике в НИТУ МИСИС. Ранее завершил два курса факультета ВМК МГУ.
+
+## Контакты
+
+* Email: [muravskii.dm@gmail.com](mailto:muravskii.dm@gmail.com)
+* Telegram: [@dirlak](https://t.me/dirlak)
